@@ -11,10 +11,14 @@
             "id": "e7091d8675d053ce",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Technology/CompSci (Computer Science)/Software Engineering/How to start programming.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to start programming"
             }
           }
         ]
@@ -70,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,12 +183,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "9809f6c55ebe67fa",
+  "active": "e7091d8675d053ce",
   "lastOpenFiles": [
-    "Technology/Technology.md",
-    "navi.md.md",
+    "Technology/CompSci (Computer Science)/AI/The Basics of AI.md",
+    "Technology/CompSci (Computer Science)/Software Engineering/How to start programming.md",
+    "Technology/CompSci (Computer Science)/AI/AI.md",
+    "Technology/CompSci (Computer Science)/AI",
     "navi.md.md",
     "navi.base",
+    "2026-05-12.md",
+    "Technology/Technology.md",
     "Science/Applied Physics/Applied Physics.md",
     "Technology/Mechanical Engineering/Mechanical Engineering.md",
     "Science/Applied Physics/Mechanical Engineering/Mechanical Engineering.md",
@@ -206,7 +213,6 @@
     "Science/Geography",
     "Science/Biology",
     "Science/Applied Physics",
-    "Science",
     "Mathematics/Mathematics.md",
     "Humanities/Humanities.md.md",
     "Technology/Electrical Engineering/Electrical Engineering.md",
@@ -214,9 +220,6 @@
     "STEM/Science/Chemistry/Chemistry.md",
     "STEM/Science/Biology/Biology.md",
     "STEM/Science/Applied Physics/Applied Physics.md",
-    "STEM/Science/Science.md",
-    "STEM/Mathematics/Mathematics.md",
-    "STEM/STEM.md",
-    "Humanities/Philosophy/Philosophy.md"
+    "STEM/Science/Science.md"
   ]
 }
