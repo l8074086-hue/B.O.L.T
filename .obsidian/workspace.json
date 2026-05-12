@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "b754e3aa64b45c5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0eacd84e2d220920",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7091d8675d053ce",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f670266adbfa9ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbc0b6fd76a8f7d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f438fb69c17ee59e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9809f6c55ebe67fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "514c0daf64ea2475",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a7a144834919c2a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2f3ea6ebfd6fd0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc888d0bc33c215a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "navi.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for navi.md"
+            }
+          },
+          {
+            "id": "e8db0771bbd7eef8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "navi.md.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from navi.md"
+            }
+          },
+          {
+            "id": "a7fb7f94420847a3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4dddcb43fbf0986d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "461312449a231ede",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "navi.md.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of navi.md"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "9809f6c55ebe67fa",
+  "lastOpenFiles": [
+    "Technology/Technology.md",
+    "navi.md.md",
+    "navi.md.md",
+    "navi.base",
+    "Science/Applied Physics/Applied Physics.md",
+    "Technology/Mechanical Engineering/Mechanical Engineering.md",
+    "Science/Applied Physics/Mechanical Engineering/Mechanical Engineering.md",
+    "Science/Science.md",
+    "Science/Applied Physics/Civil Engineering/Civil Engineering.md",
+    "Science/Applied Physics/Aerospace/Aerospace.md",
+    "Science/Geography/Geography.md",
+    "Science/Physics/Physics.md",
+    "Technology/CompSci (Computer Science)/CompSci (Computer Science).md",
+    "Technology/CompSci (Computer Science)/Software Engineering/Software Engineering.md",
+    "Science/Chemistry/Chemistry.md",
+    "Science/Biology/Biology.md",
+    "Science/Applied Physics/Mechanical Engineering",
+    "Science/Applied Physics/Civil Engineering",
+    "Science/Applied Physics/Aerospace",
+    "Science/Physics",
+    "Science/Chemistry",
+    "Science/Geography",
+    "Science/Biology",
+    "Science/Applied Physics",
+    "Science",
+    "Mathematics/Mathematics.md",
+    "Humanities/Humanities.md.md",
+    "Technology/Electrical Engineering/Electrical Engineering.md",
+    "STEM/Science/Physics/Physics.md",
+    "STEM/Science/Chemistry/Chemistry.md",
+    "STEM/Science/Biology/Biology.md",
+    "STEM/Science/Applied Physics/Applied Physics.md",
+    "STEM/Science/Science.md",
+    "STEM/Mathematics/Mathematics.md",
+    "STEM/STEM.md",
+    "Humanities/Philosophy/Philosophy.md"
+  ]
+}
