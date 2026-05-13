@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/CompSci (Computer Science)/Software Engineering/Software Engineering.md",
+                "file": "Technology/CompSci (Computer Science)/Software Engineering/Debugging (How to debug).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Software Engineering"
+              "title": "Debugging (How to debug)"
             }
           }
         ]
@@ -194,11 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f438fb69c17ee59e",
+  "active": "e7091d8675d053ce",
   "lastOpenFiles": [
+    "Technology/CompSci (Computer Science)/Software Engineering/Software Engineering.md",
     "Technology/CompSci (Computer Science)/Software Engineering/How to start programming.md",
     "Technology/CompSci (Computer Science)/Software Engineering/Debugging (How to debug).md",
-    "Technology/CompSci (Computer Science)/Software Engineering/Software Engineering.md",
     "Technology/CompSci (Computer Science)/AI/The Basics of AI.md",
     "Technology/CompSci (Computer Science)/AI/AI.md",
     "Technology/CompSci (Computer Science)/AI",
