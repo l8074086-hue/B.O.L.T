@@ -1,0 +1,1 @@
+**Normal force** ($N$) is the support force exerted by a surface on an object in contact with it. It acts perpendicular to the surface. In the absence of other vertical forces, $N = mg$. Central to calculating [[Friction]].

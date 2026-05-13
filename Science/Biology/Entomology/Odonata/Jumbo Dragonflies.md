@@ -4,15 +4,15 @@ Also known as **golden-ringed dragonfly**, **Siebold's dragonfly**, **Giant spik
 
 ## Taxonomy
 
-| Rank | Name |
-|------|------|
-| Kingdom | Animalia |
-| Phylum | Arthropoda |
-| Class | Insecta |
-| Order | Odonata |
-| Family | Cordulegastridae (spiketails) |
-| Genus | *Anotogaster* |
-| Species | *A. sieboldii* (Sélys, 1854) |
+| Rank    | Name                          |
+| ------- | ----------------------------- |
+| Kingdom | Animalia                      |
+| Phylum  | Arthropoda                    |
+| Class   | Insecta                       |
+| Order   | Odonata                       |
+| Family  | Cordulegastridae (spiketails) |
+| Genus   | *Anotogaster*                 |
+| Species | *A. sieboldii* (Sélys, 1854)  |
 
 Subspecies: *A. s. kuchenbeiseri*, *A. s. sieboldii*
 

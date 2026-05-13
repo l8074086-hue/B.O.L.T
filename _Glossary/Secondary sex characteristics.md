@@ -1,0 +1,1 @@
+**Secondary sex characteristics** are physical traits that distinguish the two sexes of a species but are not directly part of the reproductive system. Examples: antlers in deer, manes in lions, bright plumage in birds, differences in body size. Develop during sexual maturation under hormonal influence. A key aspect of [[Sexual dimorphism]].

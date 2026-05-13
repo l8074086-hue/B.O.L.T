@@ -8,5 +8,6 @@ navi.md is a navigation guide for this Obsidian vault. It explains what each top
 - [[Mathematics]] — pure and applied mathematics
 - [[Science]] — applied physics, biology, chemistry, geography, physics
 - [[Technology]] — computer science, electrical engineering, mechanical engineering
+- [[Glossary]] — glossaries for notes
 
 Each folder contains its own index note with links to sub-sections.

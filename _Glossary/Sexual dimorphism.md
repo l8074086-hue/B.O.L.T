@@ -1,10 +1,4 @@
 ---
-aliases:
-  - morphological
-  - morphologically
-  - morph
-  - morphology
----
-**Sexual dimorphism** is the condition where different sexes of the same species show different [[morphological]] characteristics, including characteristics not directly involved in [[reproduction]]. It is typically observed in most dioecious (animals with a clear genetic difference between male and female) species, which consists of most animals and some plants. Differences include [[secondary sex characteristics]], size, weight, colors, markings or behavioral or cognitive traits. 
+**Sexual dimorphism** is the condition where different sexes of the same species show different [[morphological]] characteristics, including characteristics not directly involved in [[reproduction]]. It is typically observed in most dioecious (animals with a clear genetic difference between male and female) species, which consists of most animals and some plants. Differences include [[Secondary sex characteristics]], size, weight, colors, markings or behavioral or cognitive traits. 
 
 Reversed sexual dimorphism (RSD) is a condition where females of a species are larger or more ornamented than males. Species showing such characteristics include raptors (birds of prey), spiders, leopard seal and certain waders; in waders, it is often combined with [[sex role reversal]] 

@@ -1,0 +1,1 @@
+**Reproduction** is the biological process by which new individual organisms are produced. Two broad types: **asexual** (offspring genetically identical to a single parent) and **sexual** (combination of genetic material from two parents). Central to [[Sexual dimorphism]] and [[Parental investment]].

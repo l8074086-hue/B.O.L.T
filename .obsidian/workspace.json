@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7091d8675d053ce",
+            "id": "29abd341d59594bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/CompSci (Computer Science)/Software Engineering/Debugging (How to debug).md",
+                "file": "_Glossary/Secondary sex characteristics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Debugging (How to debug)"
+              "title": "Secondary sex characteristics"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"aliases\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "navi.md.md",
+                "file": "Science/Biology/Entomology/Odonata/Jumbo Dragonflies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from navi.md"
+              "title": "Outgoing links from Jumbo Dragonflies"
             }
           },
           {
@@ -194,43 +194,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7091d8675d053ce",
+  "active": "29abd341d59594bf",
   "lastOpenFiles": [
-    "Technology/CompSci (Computer Science)/Software Engineering/Software Engineering.md",
-    "Technology/CompSci (Computer Science)/Software Engineering/How to start programming.md",
-    "Technology/CompSci (Computer Science)/Software Engineering/Debugging (How to debug).md",
-    "Technology/CompSci (Computer Science)/AI/The Basics of AI.md",
-    "Technology/CompSci (Computer Science)/AI/AI.md",
-    "Technology/CompSci (Computer Science)/AI",
-    "navi.md.md",
+    "_Glossary/Sex role reversal.md",
+    "_Glossary/Secondary sex characteristics.md",
+    "_Glossary/Sexual dimorphism.md",
+    "_Glossary/Static friction.md",
+    "_Glossary/Kinetic friction.md",
+    "_Glossary/Normal force.md",
     "navi.base",
-    "2026-05-12.md",
-    "Technology/Technology.md",
-    "Science/Applied Physics/Applied Physics.md",
-    "Technology/Mechanical Engineering/Mechanical Engineering.md",
-    "Science/Applied Physics/Mechanical Engineering/Mechanical Engineering.md",
-    "Science/Science.md",
-    "Science/Applied Physics/Civil Engineering/Civil Engineering.md",
-    "Science/Applied Physics/Aerospace/Aerospace.md",
-    "Science/Geography/Geography.md",
-    "Science/Physics/Physics.md",
-    "Technology/CompSci (Computer Science)/CompSci (Computer Science).md",
+    "Science/Physics/Forces/Friction.md",
+    "_Glossary/Coefficient of friction.md",
+    "Technology/CompSci (Computer Science)/Software Engineering/Debugging (How to debug).md",
+    "Science/Physics/Forces/Forces.md",
+    "Science/Physics/Forces",
+    "Technology/CompSci (Computer Science)/Software Engineering/How to start programming.md",
+    "Technology/CompSci (Computer Science)/Software Engineering/Software Engineering.md",
     "Science/Chemistry/Chemistry.md",
-    "Science/Biology/Biology.md",
+    "navi.md.md",
+    "Untitled.canvas",
+    "Tree.md",
+    "Science/Biology/Entomology/Odonata/Jumbo Dragonflies.md",
+    "Science/Biology/Entomology/Odonata/Odonata.md",
+    "_Glossary/Glossary.md",
+    "Technology/CompSci (Computer Science)/CompSci (Computer Science).md",
+    "update-glossary.sh",
+    "_Glossary/Parental investment.md",
+    "1.md",
+    "_Glossary/Morphological.md",
+    "_Glossary/Morphology.md",
+    "_Glossary/Reproduction.md",
+    "_Glossary",
+    "Science/Biology/Entomology/Entomology.md",
+    "Science/Biology/Entomology/Odonata",
+    "Science/Biology/Entomology",
+    "Technology/CompSci (Computer Science)/AI",
     "Science/Applied Physics/Mechanical Engineering",
     "Science/Applied Physics/Civil Engineering",
-    "Science/Applied Physics/Aerospace",
-    "Science/Physics",
-    "Science/Chemistry",
-    "Science/Geography",
-    "Science/Biology",
-    "Science/Applied Physics",
-    "Mathematics/Mathematics.md",
-    "Humanities/Humanities.md.md",
-    "Technology/Electrical Engineering/Electrical Engineering.md",
-    "STEM/Science/Physics/Physics.md",
-    "STEM/Science/Chemistry/Chemistry.md",
-    "STEM/Science/Biology/Biology.md",
-    "STEM/Science/Applied Physics/Applied Physics.md"
+    "Science/Applied Physics/Aerospace"
   ]
 }
