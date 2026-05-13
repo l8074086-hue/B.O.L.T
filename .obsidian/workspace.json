@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/CompSci (Computer Science)/Software Engineering/How to start programming.md",
+                "file": "Technology/CompSci (Computer Science)/Software Engineering/Software Engineering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to start programming"
+              "title": "Software Engineering"
             }
           }
         ]
@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "Outline of navi.md"
             }
+          },
+          {
+            "id": "bf4d503a531f80b0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,13 +190,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7091d8675d053ce",
+  "active": "f438fb69c17ee59e",
   "lastOpenFiles": [
-    "Technology/CompSci (Computer Science)/AI/The Basics of AI.md",
     "Technology/CompSci (Computer Science)/Software Engineering/How to start programming.md",
+    "Technology/CompSci (Computer Science)/Software Engineering/Debugging (How to debug).md",
+    "Technology/CompSci (Computer Science)/Software Engineering/Software Engineering.md",
+    "Technology/CompSci (Computer Science)/AI/The Basics of AI.md",
     "Technology/CompSci (Computer Science)/AI/AI.md",
     "Technology/CompSci (Computer Science)/AI",
     "navi.md.md",
@@ -202,7 +215,6 @@
     "Science/Geography/Geography.md",
     "Science/Physics/Physics.md",
     "Technology/CompSci (Computer Science)/CompSci (Computer Science).md",
-    "Technology/CompSci (Computer Science)/Software Engineering/Software Engineering.md",
     "Science/Chemistry/Chemistry.md",
     "Science/Biology/Biology.md",
     "Science/Applied Physics/Mechanical Engineering",
@@ -219,7 +231,6 @@
     "STEM/Science/Physics/Physics.md",
     "STEM/Science/Chemistry/Chemistry.md",
     "STEM/Science/Biology/Biology.md",
-    "STEM/Science/Applied Physics/Applied Physics.md",
-    "STEM/Science/Science.md"
+    "STEM/Science/Applied Physics/Applied Physics.md"
   ]
 }
